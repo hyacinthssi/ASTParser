@@ -14,7 +14,6 @@ exit
 """
 Keywords = Keywords.split()
 
-
 # a list of symbols that are one character long
 OneCharacterSymbols = """
 =
@@ -56,7 +55,6 @@ NUMBER_CHARS          = string.digits + "."
 
 STRING_STARTCHARS = "'" + '"'
 WHITESPACE_CHARS  = " \t\n"
-#fragment stop constants
 
 
 # TokenTypes for things other than symbols and keywords
