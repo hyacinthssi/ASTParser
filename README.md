@@ -30,7 +30,7 @@ ABSTRACT SYNTAX TREE (AST)
     - wraps a single character that the scanner retrieves from the text file. 
 
 #Scanner.py
-    - reads the text file one character at a time. For each character, it keeps track of the 
+    - reads the source file one character at a time. For each character, it keeps track of the 
       line and character position where the character was found. Each time the scanner is called,
       it reads the next character from the file and returns it.
 
