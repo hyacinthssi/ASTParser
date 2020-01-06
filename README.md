@@ -20,7 +20,7 @@ ABSTRACT SYNTAX TREE (AST)
       
 ----------------------------------------------------------------------------------------------------    
 
-#Compile and Run "ParserMain" :
+#Run "ParserMain" :
 
         python ParserMain.py
 
