@@ -1,0 +1,18 @@
+/* PROGRAM NAME: test.txt
+
+The test file is a simple programming language that provides:
+    numbers
+    strings
+    assignment statements
+    string concatenation
+    simple arithmetic operations
+    print capability
+*/
+
+x = 26 ;
+y = 8   ;
+z = x + y ;
+print "Value of  || z || is: " ;
+print x ;
+print y ; 
+print "\n" ;
